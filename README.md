@@ -2,6 +2,9 @@
 
 간단한 사칙연산 가능한 계산기 앱입니다. 
 
+Android Studio, Kotlin 환경
+
+
 ![image](https://github.com/semteul/FreeCalculator/assets/60562619/22a17763-5912-4052-b8ca-27196fdb1b55)
 
 
