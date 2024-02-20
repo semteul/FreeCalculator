@@ -1,6 +1,6 @@
 # FreeCalculator
 
-간단한 사칙연산 가능한 계산기 앱입니다. 
+간단한 사용자 정의 함수를 넣을 수 있는 계산기 앱입니다. 
 
 Android Studio, Kotlin 환경
 
